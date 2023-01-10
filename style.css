@@ -1,0 +1,577 @@
+/*header css code Begin*/
+.imglog0{
+    width: 100%;
+    height: 900px;
+    
+    
+}
+.imglog1{
+    width: 100px;
+    height: 100px;
+    fill: azure;
+}
+
+.imglog2{
+    width: 300px;
+    height: 700px;
+    border-radius: 10px;
+    margin-right:20px;
+}
+.imglog2:hover{
+    opacity:0.88;
+}
+.imglog3{
+    width: 20px;
+    height: 20px;
+    fill: azure;
+}
+
+.imglog4{
+    width: 16px;
+    height: 16px;
+    fill:currentColor;
+}
+.imglog5{
+    width: 50px;
+    height: 50px;
+    fill:currentColor;
+}
+
+p{
+    color: #0d0d0d;
+    line-height:25px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+h1{
+    color: rgb(222, 93, 0); 
+    font-size: 50px;
+    margin-bottom:60px;
+}
+i{
+    color: rgb(222, 93, 0); 
+    width: 20px;
+    height: 20px;
+}
+i:hover{
+    color: rgb(245, 142, 7); 
+    width: 20px;
+    height: 20px;
+}
+.v{
+    color: rgb(222, 70, 0); 
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+a{
+    text-decoration: none; 
+    text-decoration-line: none;
+}
+header{
+    top: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    z-index: 1;
+}
+.Nova{
+    
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+    background:rgb(242, 240, 240);
+    
+    width: 100%;
+    height:100px;
+    position: relative;
+    
+}
+nav{
+    
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+    background:rgb(30, 29, 29);
+    
+    width: 100%;
+    height:100px;
+    position: relative;
+    
+}
+header a{
+    text-decoration: none;
+    color: rgb(222, 78, 0); 
+    display: inline;
+    font-size:40px;
+    font-weight: bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header a:hover{
+    text-decoration: none;
+    color: rgb(245, 142, 7);
+}
+
+span{
+    color: rgb(255, 255, 255);
+}
+.Novabarr{
+    overflow: hidden;
+    background: rgb(239, 239, 239);
+    
+}
+.navbarr {
+    overflow: hidden;
+    background: rgb(30, 29, 29);
+    
+}
+
+  
+.navbarr a {
+    float: left;
+    font-size: 20px;
+    color: rgb(222, 92, 0); 
+    text-align: center;
+    padding: 14px 12px;
+    text-decoration: none;
+  }
+  
+ .dropdownn {
+    float: left;
+    overflow: hidden;
+}
+  
+.dropdownn .dropbtnn {
+    font-size: 14px;  
+    border: none;
+    outline: none;
+    color: rgb(255, 255, 255);
+    padding: 14px 12px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+  
+.navbarr a:hover, .dropdownn:hover .dropbtnn {
+    color: rgb(245, 142, 7);
+}
+.dropdownn-content2 {
+    display: none;
+    position: absolute;
+    background-color: #fafafa;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.888);;
+    z-index: 1;
+}  
+.dropdownn-content {
+    display: none;
+    position: absolute;
+    background-color: #0d0d0d;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.888);;
+    z-index: 1;
+}
+  
+.dropdownn-content a {
+    float: none;
+    color:  gray;
+    padding: 12px 16px;
+    font-size: 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+  
+  .dropdownn-content a:hover {
+    background-color: rgb(39, 39, 39);
+}
+  
+  .dropdownn:hover .dropdownn-content {
+    display: block;
+}
+/*header css code End*/
+
+
+/*section css code Begin*/
+section .b {
+    background: url("https://c4.wallpaperflare.com/wallpaper/1000/65/312/playstation-gamepad-crash-wallpaper-preview.jpg");
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    height: 900px;
+    
+
+}
+section .c {
+    background: url("https://wallpapercave.com/wp/wp9221239.jpg");
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    height: 900px;
+    
+
+}
+section .d {
+    background: url("https://wallpaper.dog/large/9975.jpg");
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    height: 900px;
+    
+
+}
+section .e {
+    background: url("https://www.wallpaperflare.com/static/807/527/717/fists-fire-ice-digital-art-wallpaper.jpg");
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: space-around;
+    width:100%;
+    height: 900px;
+    
+
+}
+.c p{
+    color: azure;
+}
+.c a{
+    text-decoration: none;
+}
+
+.grandPa{
+    display:flex;
+    flex-direction: row;
+    background-color: #fb86014c;
+    
+    justify-content: space-evenly;
+
+    width:100%;
+    height: 900px;
+    
+}
+.Pa{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 240px;
+    width: 1000px;;
+    height: 900px;
+}
+
+
+.Tex{
+    display:flex;
+    flex-direction: column;
+    margin-top:150px;
+    margin-right:40px;
+    
+}
+.Pex{
+    display:flex;
+    flex-direction: column;
+    background-color:rgb(30, 29, 29);
+    padding: 10px 10px;
+    border-radius:20px;
+    margin-top:50px;
+    margin-right:40px;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 300px;
+    
+}
+
+.Pex:hover{
+    border-left: 2px solid rgb(222, 92, 0);
+    border-right: 2px solid rgb(245, 142, 7);
+    border-top: 2px solid rgb(222, 113, 3);
+    border-bottom: 2px solid rgb(245, 182, 7);
+    opacity:0.94;
+    
+}
+.xblock{
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 800px;
+}
+
+/*section css code End*/
+
+
+/*aricle css code Begin*/
+article{
+    
+    background:url("https://cutewallpaper.org/cdn-cgi/mirage/dd19f2d06ebc24f541f142b37b4289ffa7de722a7607e39984c5c6dd4ce8defd/1280/21/black-and-white-gaming-background/White-gaming-background-1-Background-Download.png");
+    padding-top:80px;
+    padding-bottom:35px;
+    
+
+} 
+.DarkA{
+    
+    background:url("https://wallpaperaccess.com/full/772411.jpg");
+    padding-top:80px;
+    padding-bottom:35px;
+    
+
+}   
+.Child{
+    display:flex;
+    flex-direction: row;
+    margin-bottom:auto;
+    margin-left:4%;
+    margin-right:4%;
+    width:92%;
+    height:500px;
+}
+.Child a{
+    text-decoration: none;
+}
+.Child .carde:hover{
+    text-decoration: none;
+    opacity: 0.92;
+}
+.carde{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(30, 29, 29);
+    border-radius: 20px;
+    width: 400px;
+    height: 370px;
+    
+}
+.cimg{
+    border-radius: 20px;
+    width: 400px;
+    height: 250px;
+} 
+
+.carde-title{
+    line-height: 7px;
+    margin-top:10px;
+    margin-left:20px;
+    color:rgb(222, 92, 0); 
+    font-size:20px;
+    font-weight:600;
+    line-height: 7px;
+}
+.count{
+	font-size: 20px;
+	font-family: 'Open Sans';
+	font-weight: 600;
+	color: #f6f6f6;
+}
+.counter{
+	width: 15%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+    margin: right 30px;;
+}
+.btn3{
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: rgb(222, 92, 0);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+	font-family: 'Open Sans';
+	font-weight: 900;
+	color: #202020;
+	cursor: pointer;
+}
+.btn1 {
+    display: inline-block;
+    background-color:rgb(222, 92, 0);
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-top:50px;
+  }
+  .btn1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .btn1 span:after {
+    content: "\00bb";
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .btn1:hover {
+    background-color: rgb(245, 142, 7);
+  }
+  .btn1:hover span {
+    padding-right: 25px;
+  }
+  .btn1:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.LinkT{
+    margin-top:5%;
+    margin-left:6%;
+    font-size:30px;
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(222, 92, 0);
+
+}
+.LinkT:hover{
+    margin-left:6%;
+    font-size:30px;
+    text-decoration: underline;
+    font-weight: 500;
+    color: rgb(245, 142, 7);
+
+}
+.Fbox{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top:70px;
+    margin-bottom:150px;
+    margin-left:20%;
+    margin-right:40%;
+    width: 1000px;
+    height: 700px;
+    background-color:rgb(30, 29, 29);
+    color: azure;
+    border-radius:30px;
+}
+.Fbox input{
+    color: gray;
+    border-radius:10px;
+    margin-right:30px;
+    
+}
+.Fbox h2{
+    margin-right:30px;
+    font-size:25px;
+    
+}
+.btn2 {
+    display: inline-block;
+    background-color:rgb(222, 92, 0);
+    border-radius: 10px;
+    text-align: center;
+    margin-left:5px;
+    font-size: 25px;
+    width:120px;
+    transition: all 0.5s;
+    cursor: pointer;
+    
+  }
+  .btn2 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  .btn2 span:after {
+    content: "\00bb";
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  .btn2:hover {
+    background-color: rgb(245, 142, 7);
+  }
+  .btn2:hover span {
+    padding-right: 25px;
+  }
+  .btn2:hover span:after {
+    opacity: 1;
+    right: 0;
+}
+.flexpar{
+    display: flex;
+    flex-direction:row;
+    margin-Top: 60px;
+}
+.flexpar2{
+    display: flex;
+    flex-direction:row;
+
+}
+/*article css code End*/
+
+/*footer css code Begin*/
+footer{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(30, 29, 29);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.47);
+    align-items: center; 
+    justify-content: center;
+    height: 200px;
+}
+f.DarkF{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(252, 252, 252);
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.47);
+    align-items: center; 
+    justify-content: center;
+    height: 200px;
+}
+footer div{
+    margin-top:20px;
+    width: 130px;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer p a{
+    color: rgb(222, 92, 0);
+    text-decoration: none;
+    
+}
+footer div a{
+    
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+footer  a:hover{
+    color:rgb(245, 142, 7);
+    text-decoration:none;
+}
+footer i:hover{
+    color: rgb(222, 92, 0);
+}
+footer p{
+    line-height: 10px;
+    color:rgb(233, 233, 233);; 
+    font-size:14px;
+    font-weight:300;
+    line-height: 7px;
+    margin-top:20px;
+}
+
+/*footer css code End*/
